@@ -8186,7 +8186,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3010\u4E0D\u50CD\u537F\u3011\u50CD\u304B\u3056\u308B\u3042\u3048\u3068\u3059",
+      "name" : "\u30D0\u30B9\u30B1\u30C3\u30C8\u30DC\u30FC\u30EB",
       "screen_name" : "aetos382",
       "indices" : [ 3, 12 ],
       "id_str" : "78941164",
@@ -8223,11 +8223,11 @@ Grailbird.data.tweets_2017_07 =
     "id" : 887940690641956867,
     "created_at" : "2017-07-20 07:42:12 +0000",
     "user" : {
-      "name" : "\u3010\u4E0D\u50CD\u537F\u3011\u50CD\u304B\u3056\u308B\u3042\u3048\u3068\u3059",
+      "name" : "\u30D0\u30B9\u30B1\u30C3\u30C8\u30DC\u30FC\u30EB",
       "screen_name" : "aetos382",
       "protected" : false,
       "id_str" : "78941164",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/896076646561718272\/ANS_-IDL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915614833487241216\/daeyBg_n_normal.jpg",
       "id" : 78941164,
       "verified" : false
     }
@@ -9195,7 +9195,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3057\u3052\u3063\u3068(32)",
+      "name" : "\u3057\u3052\u3063\u3068(0x20)",
       "screen_name" : "shiget84",
       "indices" : [ 3, 12 ],
       "id_str" : "16682842",
@@ -9225,7 +9225,7 @@ Grailbird.data.tweets_2017_07 =
     "id" : 887314785955594240,
     "created_at" : "2017-07-18 14:15:05 +0000",
     "user" : {
-      "name" : "\u3057\u3052\u3063\u3068(32)",
+      "name" : "\u3057\u3052\u3063\u3068(0x20)",
       "screen_name" : "shiget84",
       "protected" : false,
       "id_str" : "16682842",
@@ -9762,7 +9762,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3063\u304F\u307E\u3093\uFF20\u6280\u8853\u66F8\u51783",
+      "name" : "\u305F\u3063\u304F\u307E\u3093",
       "screen_name" : "tackman",
       "indices" : [ 3, 11 ],
       "id_str" : "17364288",
@@ -9873,7 +9873,7 @@ Grailbird.data.tweets_2017_07 =
     "id" : 887352550785024000,
     "created_at" : "2017-07-18 16:45:08 +0000",
     "user" : {
-      "name" : "\u305F\u3063\u304F\u307E\u3093\uFF20\u6280\u8853\u66F8\u51783",
+      "name" : "\u305F\u3063\u304F\u307E\u3093",
       "screen_name" : "tackman",
       "protected" : false,
       "id_str" : "17364288",
@@ -10914,7 +10914,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hiroshi Manabe@80.2\u338F",
+      "name" : "Hiroshi Manabe@78.1\u338F",
       "screen_name" : "takeda25",
       "indices" : [ 3, 12 ],
       "id_str" : "94093032",
@@ -11001,7 +11001,7 @@ Grailbird.data.tweets_2017_07 =
     "id" : 887155434607460352,
     "created_at" : "2017-07-18 03:41:52 +0000",
     "user" : {
-      "name" : "Hiroshi Manabe@80.2\u338F",
+      "name" : "Hiroshi Manabe@78.1\u338F",
       "screen_name" : "takeda25",
       "protected" : false,
       "id_str" : "94093032",
@@ -14636,7 +14636,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wish.mysticdoll.com",
+      "name" : "\uD83C\uDF8210\/17\uD83C\uDF82",
       "screen_name" : "MysticDoll",
       "indices" : [ 3, 14 ],
       "id_str" : "94289754",
@@ -14663,7 +14663,7 @@ Grailbird.data.tweets_2017_07 =
     "id" : 885367095277436928,
     "created_at" : "2017-07-13 05:15:39 +0000",
     "user" : {
-      "name" : "wish.mysticdoll.com",
+      "name" : "\uD83C\uDF8210\/17\uD83C\uDF82",
       "screen_name" : "MysticDoll",
       "protected" : false,
       "id_str" : "94289754",

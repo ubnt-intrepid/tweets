@@ -648,7 +648,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5927\u5730\u3092\u5B88\u308B\u4F1A\u3000\u85E4\u7530\u548C\u82B3",
+      "name" : "\u30AA\u30A4\u30B7\u30C3\u30AF\u30B9\u30C9\u30C3\u30C8\u5927\u5730\u3000\u85E4\u7530\u548C\u82B3",
       "screen_name" : "DWMK_fujita",
       "indices" : [ 3, 15 ],
       "id_str" : "447629287",
@@ -675,7 +675,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 218243673664651265,
     "created_at" : "2012-06-28 07:25:21 +0000",
     "user" : {
-      "name" : "\u5927\u5730\u3092\u5B88\u308B\u4F1A\u3000\u85E4\u7530\u548C\u82B3",
+      "name" : "\u30AA\u30A4\u30B7\u30C3\u30AF\u30B9\u30C9\u30C3\u30C8\u5927\u5730\u3000\u85E4\u7530\u548C\u82B3",
       "screen_name" : "DWMK_fujita",
       "protected" : false,
       "id_str" : "447629287",
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF2010\u6708\u300C\u304A\u3084\u3053\u57FA\u5730\u30B7\u30D6\u30E4\u300D\u958B\u5712",
+      "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF20\u30B9\u30BF\u30C7\u30A3\u30FB\u30AF\u30FC\u30DD\u30F3\u5FDC\u63F4\u4E2D\uFF01",
       "screen_name" : "Hiroki_Komazaki",
       "indices" : [ 3, 19 ],
       "id_str" : "69259365",
@@ -4506,7 +4506,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 211271780940251136,
     "created_at" : "2012-06-09 01:41:32 +0000",
     "user" : {
-      "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF2010\u6708\u300C\u304A\u3084\u3053\u57FA\u5730\u30B7\u30D6\u30E4\u300D\u958B\u5712",
+      "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF20\u30B9\u30BF\u30C7\u30A3\u30FB\u30AF\u30FC\u30DD\u30F3\u5FDC\u63F4\u4E2D\uFF01",
       "screen_name" : "Hiroki_Komazaki",
       "protected" : false,
       "id_str" : "69259365",
@@ -4689,7 +4689,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "PKAnzug",
       "protected" : false,
       "id_str" : "46575586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875523186326032384\/sErjJxTL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915151322772418560\/aJVpzAnf_normal.jpg",
       "id" : 46575586,
       "verified" : false
     }

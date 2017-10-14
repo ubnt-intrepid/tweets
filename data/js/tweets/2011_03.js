@@ -91,7 +91,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D5\u30EA\u306B\u30FC\uFF08\u8EE2\u8077\u306F\u3058\u3081\u307E\u3057\u305F\uFF09",
+      "name" : "\u30D5\u30EA\u306B\u30FC\uFF08MTG\u30D1\u30A6\u30D1\u30FC\u59CB\u3081\u307E\u3057\u305F\uFF09",
       "screen_name" : "FLIPxFLAP",
       "indices" : [ 3, 13 ],
       "id_str" : "91350909",
@@ -118,7 +118,7 @@ Grailbird.data.tweets_2011_03 =
     "id" : 50178983895117824,
     "created_at" : "2011-03-22 12:56:16 +0000",
     "user" : {
-      "name" : "\u30D5\u30EA\u306B\u30FC\uFF08\u8EE2\u8077\u306F\u3058\u3081\u307E\u3057\u305F\uFF09",
+      "name" : "\u30D5\u30EA\u306B\u30FC\uFF08MTG\u30D1\u30A6\u30D1\u30FC\u59CB\u3081\u307E\u3057\u305F\uFF09",
       "screen_name" : "FLIPxFLAP",
       "protected" : false,
       "id_str" : "91350909",
@@ -256,7 +256,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "128507383",
       "id" : 128507383
     }, {
-      "name" : "\u3086\u30FC\u304F\u308A\u3063\u3069@\u6280\u8853\u66F8\u51783\u304D02",
+      "name" : "\u65B0\u520A\u843D\u3068\u3057\u307E\u3057\u305F",
       "screen_name" : "yuqlid",
       "indices" : [ 26, 33 ],
       "id_str" : "170695916",

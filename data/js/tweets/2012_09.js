@@ -364,7 +364,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 252259339463704576,
     "created_at" : "2012-09-30 04:11:27 +0000",
     "user" : {
-      "name" : "\u30A2\u30A4\u30C9\u30EB\u30BF\u30A4\u30E0\u3061\u3085\u304D\u306F\u3050\u30B9\u30BF\u30FC\u30BA",
+      "name" : "\u3075\u305F\u308A\u306F\u30A2\u30A4\u30C9\u30EB\u30BF\u30A4\u30E0\u3061\u3085\u304D\u306F\u3050\u30B9\u30BF\u30FC\u30BA",
       "screen_name" : "begfor_yourlife",
       "protected" : false,
       "id_str" : "89266247",
@@ -3601,7 +3601,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u65B0\u515A\u99C4\u30C1\u30EF\u30EF",
+      "name" : "\u99C4\u30C1\u30EF\u30EF\u65B0\u515A",
       "screen_name" : "DATIWAWA",
       "indices" : [ 3, 12 ],
       "id_str" : "145399561",
@@ -3628,7 +3628,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 249123146039427072,
     "created_at" : "2012-09-21 12:29:21 +0000",
     "user" : {
-      "name" : "\u65B0\u515A\u99C4\u30C1\u30EF\u30EF",
+      "name" : "\u99C4\u30C1\u30EF\u30EF\u65B0\u515A",
       "screen_name" : "DATIWAWA",
       "protected" : false,
       "id_str" : "145399561",
@@ -3859,7 +3859,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NET( \u141B )KA",
+      "name" : "\u306D\u305F\u304B",
       "screen_name" : "netaka",
       "indices" : [ 3, 10 ],
       "id_str" : "32332984",
@@ -3896,7 +3896,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248742960336879616,
     "created_at" : "2012-09-20 11:18:37 +0000",
     "user" : {
-      "name" : "NET( \u141B )KA",
+      "name" : "\u306D\u305F\u304B",
       "screen_name" : "netaka",
       "protected" : false,
       "id_str" : "32332984",
@@ -8428,7 +8428,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "ikedanob",
       "protected" : false,
       "id_str" : "24611873",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883603339023310848\/DIJK7ceT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918752274377142272\/1ZJohK8F_normal.jpg",
       "id" : 24611873,
       "verified" : true
     }

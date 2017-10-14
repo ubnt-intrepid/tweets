@@ -2820,7 +2820,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u306A\u3080\u306E\u307F\u305F\u307E\uFF5CWizard\u7D1AC++er",
+      "name" : "\u3044\u306A\u3080\u306E\u307F\u305F\u307E",
       "screen_name" : "range_v3",
       "indices" : [ 0, 9 ],
       "id_str" : "3136317523",
@@ -2853,7 +2853,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/www.wakamesoba98.net\/sobacha\/\" rel=\"nofollow\"\u003ESobaCha\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u306A\u3080\u306E\u307F\u305F\u307E\uFF5CWizard\u7D1AC++er",
+      "name" : "\u3044\u306A\u3080\u306E\u307F\u305F\u307E",
       "screen_name" : "range_v3",
       "indices" : [ 0, 9 ],
       "id_str" : "3136317523",
@@ -2930,7 +2930,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u306A\u3080\u306E\u307F\u305F\u307E\uFF5CWizard\u7D1AC++er",
+      "name" : "\u3044\u306A\u3080\u306E\u307F\u305F\u307E",
       "screen_name" : "range_v3",
       "indices" : [ 0, 9 ],
       "id_str" : "3136317523",
@@ -3337,7 +3337,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/www.wakamesoba98.net\/sobacha\/\" rel=\"nofollow\"\u003ESobaCha\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u6BB5\u968E\u53F3\u6298",
+      "name" : "\u7236",
       "screen_name" : "fushiroyama",
       "indices" : [ 3, 15 ],
       "id_str" : "740049981311045632",
@@ -3364,7 +3364,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 900935026606456832,
     "created_at" : "2017-08-25 04:17:03 +0000",
     "user" : {
-      "name" : "\u4E8C\u6BB5\u968E\u53F3\u6298",
+      "name" : "\u7236",
       "screen_name" : "fushiroyama",
       "protected" : false,
       "id_str" : "740049981311045632",
@@ -5099,7 +5099,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/www.wakamesoba98.net\/sobacha\/\" rel=\"nofollow\"\u003ESobaCha\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u304F\u308B\u308B",
+      "name" : "\u307E\u304F\u308B\u3081",
       "screen_name" : "MAMAAAAU",
       "indices" : [ 3, 12 ],
       "id_str" : "91959566",
@@ -5126,7 +5126,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 899810820556595200,
     "created_at" : "2017-08-22 01:49:51 +0000",
     "user" : {
-      "name" : "\u307E\u304F\u308B\u308B",
+      "name" : "\u307E\u304F\u308B\u3081",
       "screen_name" : "MAMAAAAU",
       "protected" : false,
       "id_str" : "91959566",
@@ -6440,7 +6440,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A2\u30CB\u30E1\u4E00\u671F\u3092\u518D\u751F\u3057\u7D9A\u3051\u308B\u30D1\u30FC\u30AF\u30AC\u30A4\u30C9\u30ED\u30DC",
+      "name" : "mz",
       "screen_name" : "dmizuk",
       "indices" : [ 0, 7 ],
       "id_str" : "3868584440",
@@ -9546,7 +9546,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Laphicet Crowe",
+      "name" : "LaFEARcet Crowe",
       "screen_name" : "NevnHiwEjuam",
       "indices" : [ 0, 13 ],
       "id_str" : "842555404634664960",
@@ -10321,7 +10321,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/www.wakamesoba98.net\/sobacha\/\" rel=\"nofollow\"\u003ESobaCha\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ag_dubs \uD83C\uDDE8\uD83C\uDDED",
+      "name" : "ambient dubslog",
       "screen_name" : "ag_dubs",
       "indices" : [ 3, 11 ],
       "id_str" : "304067888",
@@ -10432,7 +10432,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 898636001345626112,
     "created_at" : "2017-08-18 20:01:33 +0000",
     "user" : {
-      "name" : "ag_dubs \uD83C\uDDE8\uD83C\uDDED",
+      "name" : "ambient dubslog",
       "screen_name" : "ag_dubs",
       "protected" : false,
       "id_str" : "304067888",
@@ -16822,7 +16822,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u304A\u4ED5\u4E8B\u304C\u307B\u3057\u3044",
+      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u7121\u8077",
       "screen_name" : "pink_bangbi",
       "indices" : [ 3, 15 ],
       "id_str" : "3041439211",
@@ -16859,7 +16859,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 894248444335841280,
     "created_at" : "2017-08-06 17:26:58 +0000",
     "user" : {
-      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u304A\u4ED5\u4E8B\u304C\u307B\u3057\u3044",
+      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u7121\u8077",
       "screen_name" : "pink_bangbi",
       "protected" : false,
       "id_str" : "3041439211",
@@ -17152,7 +17152,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u304A\u4ED5\u4E8B\u304C\u307B\u3057\u3044",
+      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u7121\u8077",
       "screen_name" : "pink_bangbi",
       "indices" : [ 3, 15 ],
       "id_str" : "3041439211",
@@ -17179,7 +17179,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 894181684920242176,
     "created_at" : "2017-08-06 13:01:41 +0000",
     "user" : {
-      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u304A\u4ED5\u4E8B\u304C\u307B\u3057\u3044",
+      "name" : "\u30D0\u30F3\u30D3\u3061\u3083\u3093@\u5B9F\u969B\u7121\u8077",
       "screen_name" : "pink_bangbi",
       "protected" : false,
       "id_str" : "3041439211",

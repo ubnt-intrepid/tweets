@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3078\u3082\u307E\u308B\u3082\u306E",
+      "name" : "\u3078\u3082\u307E\u308B\u5927\u4F50",
       "screen_name" : "figyu_hemo",
       "indices" : [ 3, 14 ],
       "id_str" : "92546903",
@@ -30,7 +30,7 @@ Grailbird.data.tweets_2012_04 =
     "id" : 196211092421226497,
     "created_at" : "2012-04-28 12:15:44 +0000",
     "user" : {
-      "name" : "\u3078\u3082\u307E\u308B\u3082\u306E",
+      "name" : "\u3078\u3082\u307E\u308B\u5927\u4F50",
       "screen_name" : "figyu_hemo",
       "protected" : false,
       "id_str" : "92546903",

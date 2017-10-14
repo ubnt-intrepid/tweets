@@ -1487,7 +1487,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "1T0T",
       "protected" : false,
       "id_str" : "5616302",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/897259338732982272\/xQtVh0Vh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917369083829510146\/N3mtQQOk_normal.jpg",
       "id" : 5616302,
       "verified" : false
     }
@@ -4604,7 +4604,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/userchart.jp\/\" rel=\"nofollow\"\u003Euserchart.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased1675963.com\" rel=\"nofollow\"\u003Eerased1675963\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -9966,7 +9966,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF3E\u307F\u306A\u307F \u3053\u3044\uD83C\uDF3E",
+      "name" : "\uD83D\uDC7B\u307F\u306A\u307F \u3053\u3044\uD83D\uDC7B",
       "screen_name" : "c_oi",
       "indices" : [ 3, 8 ],
       "id_str" : "292975099",
@@ -10005,7 +10005,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 279823776194129922,
     "created_at" : "2012-12-15 05:42:41 +0000",
     "user" : {
-      "name" : "\uD83C\uDF3E\u307F\u306A\u307F \u3053\u3044\uD83C\uDF3E",
+      "name" : "\uD83D\uDC7B\u307F\u306A\u307F \u3053\u3044\uD83D\uDC7B",
       "screen_name" : "c_oi",
       "protected" : false,
       "id_str" : "292975099",
@@ -18340,7 +18340,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twicca.r246.jp\/\" rel=\"nofollow\"\u003Etwicca\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AA\u30E1\u30AC",
+      "name" : "90%\u306E\u78BA\u7387\u3067\u30EA\u30D7\u8FD4\u3067\u304D\u306A\u3044\u30AA\u30E1\u30AC",
       "screen_name" : "puremind1994",
       "indices" : [ 3, 16 ],
       "id_str" : "209930156",
@@ -18367,7 +18367,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 276105816686346240,
     "created_at" : "2012-12-04 23:28:51 +0000",
     "user" : {
-      "name" : "\u30AA\u30E1\u30AC",
+      "name" : "90%\u306E\u78BA\u7387\u3067\u30EA\u30D7\u8FD4\u3067\u304D\u306A\u3044\u30AA\u30E1\u30AC",
       "screen_name" : "puremind1994",
       "protected" : false,
       "id_str" : "209930156",

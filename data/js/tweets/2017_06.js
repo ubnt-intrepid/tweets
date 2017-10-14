@@ -4306,7 +4306,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30C1\u30E5\u30FC\u30EA\u30F3\u30B0\u4E0D\u5B8C\u5168",
+      "name" : "\\",
       "screen_name" : "arclisp",
       "indices" : [ 3, 11 ],
       "id_str" : "2253511417",
@@ -4333,11 +4333,11 @@ Grailbird.data.tweets_2017_06 =
     "id" : 873010818119417857,
     "created_at" : "2017-06-09 02:56:13 +0000",
     "user" : {
-      "name" : "\u30C1\u30E5\u30FC\u30EA\u30F3\u30B0\u4E0D\u5B8C\u5168",
+      "name" : "\\",
       "screen_name" : "arclisp",
       "protected" : false,
       "id_str" : "2253511417",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/911665845671124993\/OWtabLfR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/919011352626085889\/0WhQ686c_normal.jpg",
       "id" : 2253511417,
       "verified" : false
     }
@@ -4760,7 +4760,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "switch\u7D1B\u5931\u83DC",
+      "name" : "\u96A3\u306E\u5BA2\u306F\u4EBA\u98DF\u3046\u30B7\u30E3\u30C1\u3060\u83DC",
       "screen_name" : "happou31",
       "indices" : [ 3, 12 ],
       "id_str" : "115029611",
@@ -4847,7 +4847,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 873527480950247427,
     "created_at" : "2017-06-10 13:09:15 +0000",
     "user" : {
-      "name" : "switch\u7D1B\u5931\u83DC",
+      "name" : "\u96A3\u306E\u5BA2\u306F\u4EBA\u98DF\u3046\u30B7\u30E3\u30C1\u3060\u83DC",
       "screen_name" : "happou31",
       "protected" : false,
       "id_str" : "115029611",
@@ -8295,7 +8295,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u308D@\u95A2\u6570\u578B\u8A00\u8A9Ex\u4F5C\u66F2x\u6A5F\u68B0\u5B66\u7FD2\u52C9\u5F37\u4E2D",
+      "name" : "\u307E\u308D@\u95A2\u6570\u578B\u8A00\u8A9E\u4F5C\u66F2\u6A5F\u68B0\u5B66\u7FD2\u52C9\u5F37\u3057\u3066\u306A\u3044",
       "screen_name" : "_marony",
       "indices" : [ 0, 8 ],
       "id_str" : "375382488",
@@ -8860,7 +8860,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark neo power",
+      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark Vim",
       "screen_name" : "ShougoMatsu",
       "indices" : [ 3, 15 ],
       "id_str" : "19320141",
@@ -8887,7 +8887,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 870600047070597122,
     "created_at" : "2017-06-02 11:16:40 +0000",
     "user" : {
-      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark neo power",
+      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark Vim",
       "screen_name" : "ShougoMatsu",
       "protected" : false,
       "id_str" : "19320141",

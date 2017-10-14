@@ -137,7 +137,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "code",
       "protected" : false,
       "id_str" : "3167734591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676630166190166017\/UYxw-HcD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916011412681482241\/wX-g-Te2_normal.jpg",
       "id" : 3167734591,
       "verified" : true
     }
@@ -179,7 +179,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twicca.r246.jp\/\" rel=\"nofollow\"\u003Etwicca\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3086\u304D\u307E\u308BP\u306F\u5F85\u3066\u3092\u5BA3\u8A00\u3057\u307E\u3057\u305F",
+      "name" : "\u30A4\u30D9\u30F3\u30C8\u5F53\u305F\u3089\u306A\u904E\u304E\u3066\u3064\u3089\u3044",
       "screen_name" : "yukmal24",
       "indices" : [ 3, 12 ],
       "id_str" : "171499707",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 593409031164669952,
     "created_at" : "2015-04-29 13:38:32 +0000",
     "user" : {
-      "name" : "\u3086\u304D\u307E\u308BP\u306F\u5F85\u3066\u3092\u5BA3\u8A00\u3057\u307E\u3057\u305F",
+      "name" : "\u30A4\u30D9\u30F3\u30C8\u5F53\u305F\u3089\u306A\u904E\u304E\u3066\u3064\u3089\u3044",
       "screen_name" : "yukmal24",
       "protected" : false,
       "id_str" : "171499707",
@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "yubais",
       "protected" : false,
       "id_str" : "232116348",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1202337259\/yuba_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918738490551971841\/bUsDFrcD_normal.jpg",
       "id" : 232116348,
       "verified" : false
     }
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twicca.r246.jp\/\" rel=\"nofollow\"\u003Etwicca\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark neo power",
+      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark Vim",
       "screen_name" : "ShougoMatsu",
       "indices" : [ 3, 15 ],
       "id_str" : "19320141",
@@ -1685,7 +1685,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 592316149322293249,
     "created_at" : "2015-04-26 13:15:49 +0000",
     "user" : {
-      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark neo power",
+      "name" : "\u6697\u9ED2\u7F8E\u7121\u738B dark Vim",
       "screen_name" : "ShougoMatsu",
       "protected" : false,
       "id_str" : "19320141",
@@ -1893,7 +1893,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twicca.r246.jp\/\" rel=\"nofollow\"\u003Etwicca\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3086\u30FC\u304F\u308A\u3063\u3069@\u6280\u8853\u66F8\u51783\u304D02",
+      "name" : "\u65B0\u520A\u843D\u3068\u3057\u307E\u3057\u305F",
       "screen_name" : "yuqlid",
       "indices" : [ 0, 7 ],
       "id_str" : "170695916",
@@ -1926,7 +1926,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twicca.r246.jp\/\" rel=\"nofollow\"\u003Etwicca\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3086\u30FC\u304F\u308A\u3063\u3069@\u6280\u8853\u66F8\u51783\u304D02",
+      "name" : "\u65B0\u520A\u843D\u3068\u3057\u307E\u3057\u305F",
       "screen_name" : "yuqlid",
       "indices" : [ 0, 7 ],
       "id_str" : "170695916",
@@ -2411,7 +2411,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Madoka\u3061\u3087\u307E\u3069@\u677E\u5C4B\u30D5\u30EC\u30F3\u30BA",
+      "name" : "\u3061\u3087\u307E\u3069@\u30D7\u30ED\u30B0\u30E9\u30DE\u517C\u30DE\u30F3\u30AC\u5BB6",
       "screen_name" : "chomado",
       "indices" : [ 3, 11 ],
       "id_str" : "949438177",
@@ -2438,7 +2438,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 590527403430006784,
     "created_at" : "2015-04-21 14:47:59 +0000",
     "user" : {
-      "name" : "Madoka\u3061\u3087\u307E\u3069@\u677E\u5C4B\u30D5\u30EC\u30F3\u30BA",
+      "name" : "\u3061\u3087\u307E\u3069@\u30D7\u30ED\u30B0\u30E9\u30DE\u517C\u30DE\u30F3\u30AC\u5BB6",
       "screen_name" : "chomado",
       "protected" : false,
       "id_str" : "949438177",
@@ -3210,7 +3210,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u793E\u5B85\u58CA\u3057\u3066\u59CB\u672B\u66F8",
+      "name" : "HUB\u540D\u53E4\u5C4B\u4F0F\u898B\u5E97",
       "screen_name" : "Asyley_",
       "indices" : [ 3, 11 ],
       "id_str" : "296881914",
@@ -3237,7 +3237,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 590112472465428482,
     "created_at" : "2015-04-20 11:19:11 +0000",
     "user" : {
-      "name" : "\u793E\u5B85\u58CA\u3057\u3066\u59CB\u672B\u66F8",
+      "name" : "HUB\u540D\u53E4\u5C4B\u4F0F\u898B\u5E97",
       "screen_name" : "Asyley_",
       "protected" : false,
       "id_str" : "296881914",
@@ -3335,7 +3335,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "hamukazu",
       "protected" : false,
       "id_str" : "60320929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866824835346857985\/GW7iRS-__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916193186095128576\/0JqKTVar_normal.jpg",
       "id" : 60320929,
       "verified" : false
     }
@@ -3963,7 +3963,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "yubais",
       "protected" : false,
       "id_str" : "232116348",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1202337259\/yuba_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918738490551971841\/bUsDFrcD_normal.jpg",
       "id" : 232116348,
       "verified" : false
     }
@@ -3983,7 +3983,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304B\u306B\/SW-0146-0681-7136",
+      "name" : "\u304B\u306B",
       "screen_name" : "_k_a_n_i_",
       "indices" : [ 3, 13 ],
       "id_str" : "1349860604",
@@ -4070,11 +4070,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 588927877011398656,
     "created_at" : "2015-04-17 04:52:02 +0000",
     "user" : {
-      "name" : "\u304B\u306B\/SW-0146-0681-7136",
+      "name" : "\u304B\u306B",
       "screen_name" : "_k_a_n_i_",
       "protected" : false,
       "id_str" : "1349860604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914142808880984065\/PiSlOr3v_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918491458352529408\/zcTRhxp2_normal.jpg",
       "id" : 1349860604,
       "verified" : false
     }
@@ -4094,7 +4094,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B9\u30C9\u30FC\uD83C\uDF63",
+      "name" : "\u30B9\u30C9\u30FC\uD83C\uDF41",
       "screen_name" : "stdaux",
       "indices" : [ 3, 10 ],
       "id_str" : "765096391",
@@ -4121,7 +4121,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 588889652104335360,
     "created_at" : "2015-04-17 02:20:08 +0000",
     "user" : {
-      "name" : "\u30B9\u30C9\u30FC\uD83C\uDF63",
+      "name" : "\u30B9\u30C9\u30FC\uD83C\uDF41",
       "screen_name" : "stdaux",
       "protected" : false,
       "id_str" : "765096391",
@@ -4372,7 +4372,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u304F\u308B\u308B",
+      "name" : "\u307E\u304F\u308B\u3081",
       "screen_name" : "MAMAAAAU",
       "indices" : [ 3, 12 ],
       "id_str" : "91959566",
@@ -4399,7 +4399,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 588512754681548800,
     "created_at" : "2015-04-16 01:22:29 +0000",
     "user" : {
-      "name" : "\u307E\u304F\u308B\u308B",
+      "name" : "\u307E\u304F\u308B\u3081",
       "screen_name" : "MAMAAAAU",
       "protected" : false,
       "id_str" : "91959566",
@@ -4509,7 +4509,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3",
+      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3(\u30A2\u30B9\u30C8\u30EC\u30A2PG)",
       "screen_name" : "ryuzoji21",
       "indices" : [ 3, 13 ],
       "id_str" : "363689887",
@@ -4536,7 +4536,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 588115808146083841,
     "created_at" : "2015-04-14 23:05:09 +0000",
     "user" : {
-      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3",
+      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3(\u30A2\u30B9\u30C8\u30EC\u30A2PG)",
       "screen_name" : "ryuzoji21",
       "protected" : false,
       "id_str" : "363689887",
@@ -4560,7 +4560,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3",
+      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3(\u30A2\u30B9\u30C8\u30EC\u30A2PG)",
       "screen_name" : "ryuzoji21",
       "indices" : [ 3, 13 ],
       "id_str" : "363689887",
@@ -4587,7 +4587,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 588115549378502657,
     "created_at" : "2015-04-14 23:04:08 +0000",
     "user" : {
-      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3",
+      "name" : "\u5F10\u4E43\u5BAE\u548C\u97F3(\u30A2\u30B9\u30C8\u30EC\u30A2PG)",
       "screen_name" : "ryuzoji21",
       "protected" : false,
       "id_str" : "363689887",
@@ -4808,6 +4808,57 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "4.5P",
+      "screen_name" : "yontengoP",
+      "indices" : [ 3, 13 ],
+      "id_str" : "82752855",
+      "id" : 82752855
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "588550070116614146",
+  "text" : "RT @yontengoP: \u65B0\u5352\u304F\u3093\u306B\u300CIT\u696D\u754C\u3063\u3066\u96E2\u8077\u7387\u9AD8\u3044\u3067\u3059\u3051\u3069\u3001\u3053\u306E\u696D\u754C\u3067\u4ECA\u306E\u4F1A\u793E\u8F9E\u3081\u308B\u306E\u3063\u3066\u3001\u57FA\u672C\u7684\u306B\u4ED6\u306E\u4F1A\u793E\u304B\u3089\u30D8\u30C3\u30C9\u30CF\u30F3\u30C6\u30A3\u30F3\u30B0\u3055\u308C\u3066\u3001\u3082\u3063\u3068\u30A4\u30A4\u6761\u4EF6\u306E\u4F1A\u793E\u306B\u884C\u304F\u5834\u5408\u3082\u591A\u3044\u3058\u3083\u306A\u3044\u3067\u3059\u304B\uFF01\u3060\u304B\u3089\u6C7A\u3057\u3066\u60B2\u89B3\u3059\u308B\u3053\u3068\u3058\u3083\u306A\u3044\u3067\u3059\u3088\u306D\uFF01\u300D\u3068\u8A00\u308F\u308C\u3066\u3001\u3068\u308A\u3042\u3048\u305A\u66D6\u6627\u306A\u7B11\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "588528991067250688",
+    "text" : "\u65B0\u5352\u304F\u3093\u306B\u300CIT\u696D\u754C\u3063\u3066\u96E2\u8077\u7387\u9AD8\u3044\u3067\u3059\u3051\u3069\u3001\u3053\u306E\u696D\u754C\u3067\u4ECA\u306E\u4F1A\u793E\u8F9E\u3081\u308B\u306E\u3063\u3066\u3001\u57FA\u672C\u7684\u306B\u4ED6\u306E\u4F1A\u793E\u304B\u3089\u30D8\u30C3\u30C9\u30CF\u30F3\u30C6\u30A3\u30F3\u30B0\u3055\u308C\u3066\u3001\u3082\u3063\u3068\u30A4\u30A4\u6761\u4EF6\u306E\u4F1A\u793E\u306B\u884C\u304F\u5834\u5408\u3082\u591A\u3044\u3058\u3083\u306A\u3044\u3067\u3059\u304B\uFF01\u3060\u304B\u3089\u6C7A\u3057\u3066\u60B2\u89B3\u3059\u308B\u3053\u3068\u3058\u3083\u306A\u3044\u3067\u3059\u3088\u306D\uFF01\u300D\u3068\u8A00\u308F\u308C\u3066\u3001\u3068\u308A\u3042\u3048\u305A\u66D6\u6627\u306A\u7B11\u9854\u3092\u8FD4\u3057\u3066\u304A\u304F\u3002",
+    "id" : 588528991067250688,
+    "created_at" : "2015-04-16 02:27:00 +0000",
+    "user" : {
+      "name" : "4.5P",
+      "screen_name" : "yontengoP",
+      "protected" : false,
+      "id_str" : "82752855",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910149435316772864\/TL4CEVCF_normal.jpg",
+      "id" : 82752855,
+      "verified" : false
+    }
+  },
+  "id" : 588550070116614146,
+  "created_at" : "2015-04-16 03:50:46 +0000",
+  "user" : {
+    "name" : "\u30A8\u30C8\u30D4\u30EA\u30AB\u306E",
+    "screen_name" : "ubnt_intrepid",
+    "protected" : false,
+    "id_str" : "128154845",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/868413039254528000\/A9wCGljZ_normal.jpg",
+    "id" : 128154845,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "\u5C71\u4E2D\u4FCA\u6CBB Shunji Yamanaka",
       "screen_name" : "Yam_eye",
       "indices" : [ 3, 11 ],
@@ -4890,7 +4941,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "tokoya",
       "protected" : false,
       "id_str" : "4119831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813027309540163584\/DHeMQaCb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917582152811741184\/oFt1DWGA_normal.jpg",
       "id" : 4119831,
       "verified" : false
     }
@@ -5931,7 +5982,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306B\u3057\u3080\u3089\u3000\u672A\u3060\u66AB\u304F\u6771\u4EAC",
+      "name" : "\u306B\u3057\u3080\u3089\u3000\u3057\u3070\u3089\u304F\u6771\u4EAC",
       "screen_name" : "Nishimuraumiush",
       "indices" : [ 3, 19 ],
       "id_str" : "112458083",
@@ -5963,7 +6014,7 @@ Grailbird.data.tweets_2015_04 =
     "in_reply_to_screen_name" : "Nishimuraumiush",
     "in_reply_to_user_id_str" : "112458083",
     "user" : {
-      "name" : "\u306B\u3057\u3080\u3089\u3000\u672A\u3060\u66AB\u304F\u6771\u4EAC",
+      "name" : "\u306B\u3057\u3080\u3089\u3000\u3057\u3070\u3089\u304F\u6771\u4EAC",
       "screen_name" : "Nishimuraumiush",
       "protected" : false,
       "id_str" : "112458083",
@@ -6162,7 +6213,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/smileessence.miz-hi.net\/index.html\" rel=\"nofollow\"\u003ESmileEssence Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 3, 10 ],
       "id_str" : "813051000",
@@ -6199,7 +6250,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 585788901479985154,
     "created_at" : "2015-04-08 12:58:52 +0000",
     "user" : {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "protected" : false,
       "id_str" : "813051000",
@@ -6810,7 +6861,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "O2A1",
       "protected" : false,
       "id_str" : "99182024",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913811131826937856\/jKjghYsb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916710713254666240\/nJSFl8Fo_normal.jpg",
       "id" : 99182024,
       "verified" : false
     }

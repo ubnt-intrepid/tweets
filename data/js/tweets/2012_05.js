@@ -2563,7 +2563,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "PKAnzug",
       "protected" : false,
       "id_str" : "46575586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875523186326032384\/sErjJxTL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915151322772418560\/aJVpzAnf_normal.jpg",
       "id" : 46575586,
       "verified" : false
     }
@@ -5979,7 +5979,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "32394429",
       "id" : 32394429
     }, {
-      "name" : "\u84BC\u732BMS-14F'",
+      "name" : "\u84BC\u732Bver.Cefca Palazzo",
       "screen_name" : "violetkaleido",
       "indices" : [ 29, 43 ],
       "id_str" : "528437243",
@@ -6002,7 +6002,7 @@ Grailbird.data.tweets_2012_05 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u84BC\u732BMS-14F'",
+        "name" : "\u84BC\u732Bver.Cefca Palazzo",
         "screen_name" : "violetkaleido",
         "indices" : [ 13, 27 ],
         "id_str" : "528437243",
