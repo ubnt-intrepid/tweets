@@ -17,17 +17,17 @@ var Grailbird = function (type, date, data) {
     month_bar: Hogan.compile('<li><a href="#" class="with-tweets" title="{{str_title}}: {{str_count}}" rel="tooltip" data-placement="bottom" data-idx="{{data_idx}}" data-date="{{str_title}}" data-count="{{this_count}}"><span class="bar" style="height: {{this_height}}%;"></span><span class="value">{{this_month}}</span></a></li>'),
     header_str: Hogan.compile('{{title_str}} <span class="count">{{tweet_count}}</span>'),
     user_header: Hogan.compile('<li><h1 class="brand ltr-screen-name">@{{screen_name}}</h1></li>'),
-    user_nav: Hogan.compile('<a href="#" class="icon-sprite icon-user dropdown-toggle" data-toggle="dropdown"></a><ul class="dropdown-menu"><li><a href="#user-info" data-toggle="modal"><i class="icon-user"></i>View account details</a></li><li class="divider"></li><li><a href="https://twitter.com/{{screen_name}}" target="_blank"><i class="icon-share-alt"></i>View profile on Twitter</a></li></ul>'),
-    modal_header: Hogan.compile('<h3>Account details <span class="download-date muted">as of {{created_at_relative}}</span></h3>'),
+    user_nav: Hogan.compile('<a href="#" class="icon-sprite icon-user dropdown-toggle" data-toggle="dropdown"></a><ul class="dropdown-menu"><li><a href="#user-info" data-toggle="modal"><i class="icon-user"></i>アカウントの詳細を表示</a></li><li class="divider"></li><li><a href="https://twitter.com/{{screen_name}}" target="_blank"><i class="icon-share-alt"></i>プロフィールを表示</a></li></ul>'),
+    modal_header: Hogan.compile('<h3><span class="download-date muted">{{created_at_relative}}時点での</span>アカウントの詳細</h3>'),
     modal_user_details: Hogan.compile('<h3>{{full_name}}</h3><h4 class="muted ltr-screen-name">@{{screen_name}}</h4><div class="stats muted">{{#bio}}<p>{{bio}}</p>{{/bio}}<p>{{#location}}<a href="https://maps.google.com/?q={{location}}">{{location}}</a>{{/location}}{{#url}}{{#location}} &middot; {{/location}}<a href="{{url}}" title="{{#expanded_url}}{{expanded_url}}{{/expanded_url}}{{^expanded_url}}{{url}}{{/expanded_url}}">{{#display_url}}{{display_url}}{{/display_url}}{{^display_url}}{{url}}{{/display_url}}</a>{{/url}}</p></div>'),
-    modal_payload_details: Hogan.compile('<p>{{tweets}} <span class="footer-label muted">Tweets</span></p>'),
-    modal_account_details: Hogan.compile('<p>#{{id}} <span class="footer-label muted">User ID</span></p><p class="truncated">{{created_at_relative}} <span class="footer-label muted">Joined</span></p>'),
+    modal_payload_details: Hogan.compile('<p>{{tweets}} <span class="footer-label muted">ツイート</span></p>'),
+    modal_account_details: Hogan.compile('<p><span class="footer-label muted">ユーザーID</span>#{{id}}さんが</p><p class="truncated">{{created_at_relative}}に<span class="footer-label muted">参加しました</span></p>'),
     nav_tab: Hogan.compile('<li class="{{sectionClass}}"><a href="#">{{sectionName}}</a></li>'),
     searching_for: Hogan.compile('Searching for {{{query}}} ...'),
     query_results_one: Hogan.compile('1 result matches {{{query}}}'),
     query_results_many: Hogan.compile('{{count}} results match {{{query}}}'),
-    singular_tweet_count: Hogan.compile('{{count}} Tweet'),
-    plural_tweet_count: Hogan.compile('{{count}} Tweets')
+    singular_tweet_count: Hogan.compile('{{count}}ツイート'),
+    plural_tweet_count: Hogan.compile('{{count}} ツイート')
   };
 //
 
@@ -148,7 +148,7 @@ var Grailbird = function (type, date, data) {
     .bind('invalidSearch', function (e) {
       e.preventDefault();
       $(this)
-        .attr('data-original-title', 'Your query must be at least two characters.')
+        .attr('data-original-title', '検索には2文字以上入力してください。')
         .tooltip('show');
     });
 
@@ -225,7 +225,7 @@ var Grailbird = function (type, date, data) {
   (function(exports) {
     exports.base = {
       init: function () {
-        $('.navbar-search .search-query').attr('placeholder', 'Search all Tweets');
+        $('.navbar-search .search-query').attr('placeholder', '全ツイートを検索');
         this.buildNavigation();
         this.displayTweets(0);
       },
@@ -240,18 +240,18 @@ var Grailbird = function (type, date, data) {
         var count, status_file;
         var temp_date = new Date();
         var months = [
-              'January',
-              'February',
-              'March',
-              'April',
-              'May',
-              'June',
-              'July',
-              'August',
-              'September',
-              'October',
-              'November',
-              'December'
+              '1月',
+              '2月',
+              '3月',
+              '4月',
+              '5月',
+              '6月',
+              '7月',
+              '8月',
+              '9月',
+              '10月',
+              '11月',
+              '12月'
             ],
             self = this,
             $year_chart = $('<div class="histogram"><h3></h3><ol class="months unstyled"></ol></div>'),
@@ -503,8 +503,8 @@ var Grailbird = function (type, date, data) {
 
   (function(exports) {
     var Tweets = function () {
-      this.str_singular       = 'Tweet';
-      this.str_plural         = 'Tweets';
+      this.str_singular       = 'ツイート';
+      this.str_plural         = 'ツイート';
       this.status_index       = tweet_index;
     };
 
@@ -552,9 +552,9 @@ var Grailbird = function (type, date, data) {
 
     exports.localizeStrings = function() {
       $('html').attr('lang', payload_details["lang"]);
-      document.title = "Your Twitter archive";
-      $('#footer-text').append("This is an offline archive of your Tweets from Twitter. Use the months above to navigate the archive.");
-      var compose_new_tweet = "Compose new Tweet";
+      document.title = "全ツイート履歴";
+      $('#footer-text').append("こちらはオフライン用のツイート履歴です。上に表示されている月ごとにツイートを見ることができます。");
+      var compose_new_tweet = "ツイートする";
       $('#compose-tweet').append(compose_new_tweet);
       $('#compose-tweet-a').attr('title', compose_new_tweet);
       $('#compose-tweet-li').attr('data-original-title', compose_new_tweet);

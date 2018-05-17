@@ -1,17 +1,17 @@
-# How to use your Twitter archive
+# ツイート履歴の使い方
 
-The simplest way to use your Twitter archive is through the archive browser interface provided in this file. Just double-click `index.html` from the root folder and you can browse your entire history of Tweets from inside your browser.
+ツイート履歴のデータを使用する最も簡単な方法は、このファイルをブラウザを使用して閲覧することです。ルートフォルダにある「index.html」をダブルクリックすれば、ブラウザから全てのツイートを見ることができます。
 
 ---
 
-In the `data` folder, your Twitter archive is present in two formats: JSON and CSV exports by month and year.
+「data」フォルダ内には、全ツイート履歴がJSONとCSVの2種類の形式で月別・年別ごとに保存されています。
 
-* CSV is a generic format that can be imported into many data tools, spreadsheet applications, or consumed simply using a programming language.
+* CSV形式は多くのデータツールや表計算ソフトで読み込むことができ、プログラミング言語でも簡単に処理できる汎用的なデータフォーマットです。
 
-## JSON for Developers
+## 開発者向けJSON
 
-* The JSON export contains a full representation of your Tweets as returned by v1.1 of the Twitter API. See https://dev.twitter.com/docs/api/1.1 for more information.
-* The JSON export is also used to power the archive browser interface (index.html).
-* To consume the export in a generic JSON parser in any language, strip the first and last lines of each file.
+* JSON形式で出力したデータには、Twitter API v1.1が返すデータと同じ形式で、すべてのツイートが含まれています。詳細は https://dev.twitter.com/docs/api/1.1 をご覧ください。
+* JSON形式で出力したデータは、ツイート履歴のブラウザーインタフェースとしても利用できます(index.html)。
+* 出力したデータをプログラミング言語のJSONパーサーで処理するには、各ファイルの先頭と末尾の行を取り除いてください。
 
-To provide feedback, ask questions, or share ideas with other Twitter developers, join the discussion forums on https://dev.twitter.com.
+他のTwitter開発者にフィードバックや質問をしたり、アイデアを共有したりするには、開発者用フォーラム https://dev.twitter.com に参加してください。
